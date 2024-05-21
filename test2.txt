@@ -1,2 +1,2 @@
 This is the another text file
-This second time I modify
+Another line now added
