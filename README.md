@@ -14,6 +14,6 @@
 
 Any text written like this is a pragraph
 
-This is another paragraph
+This is another paragraph. *This part is going to be italics*. **This part is going to bold**.
 
 
