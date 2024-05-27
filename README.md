@@ -20,7 +20,13 @@ This is another paragraph. *This part is going to be italics*. **This part is go
 
 # Link :
 
-[This is the wesite](https://rishav.raj)
+[This is the wesite](https://google.com)
+
+---
+
+# Image
+
+![Markdown Image](https://en.wikipedia.org/wiki/File:Markdown-mark.svg)
 
 
 
