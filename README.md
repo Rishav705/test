@@ -26,7 +26,7 @@ This is another paragraph. *This part is going to be italics*. **This part is go
 
 # Image
 
-![Markdown Image](https://en.wikipedia.org/wiki/File:Markdown-mark.svg)
+![Markdown Image](https://en.wikipedia.org/wiki/File:Markdown-mark.svg](https://stock.adobe.com/in/images/google-logo-sign-icon-isolated-on-white-background/388078454))
 
 ---
 
