@@ -8,3 +8,12 @@
 ###### Sixth Heading
 ####### Seventh Heading
 
+---
+
+# Pragraph
+
+Any text written like this is a pragraph
+
+This is another paragraph
+
+
