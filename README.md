@@ -28,5 +28,20 @@ This is another paragraph. *This part is going to be italics*. **This part is go
 
 ![Markdown Image](https://en.wikipedia.org/wiki/File:Markdown-mark.svg)
 
+---
+
+# List
+
+- Item1
+- Item2
+- Item3
+    - Item 3.1
+    - Item 3.2
+ 
+1. Item 1
+2. Item 2
+3. Item 3
+      
+
 
 
